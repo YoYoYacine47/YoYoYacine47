@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YoYoYacine47
+- 👀 I’m interested in Android using Kotlin dev and full stack dev using javasript
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate with people with same intereste
+- 📫 email: ramdaneyacine31@gmail.com
